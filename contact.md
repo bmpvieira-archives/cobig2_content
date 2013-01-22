@@ -10,4 +10,4 @@ PORTUGAL
 
 **Group leader:**
 
-[Octávio S. Paulo](mailto:octavio.paulo@fc.ul.pt)"
+[Octávio S. Paulo](mailto:octavio.paulo@fc.ul.pt)

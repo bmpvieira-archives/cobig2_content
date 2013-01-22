@@ -1,0 +1,63 @@
+{
+  "menu": [
+    {
+      "text": "Work", 
+      "dropdown": [
+        {
+          "text": "Papers", 
+          "href": "/view1"
+        }, 
+        {
+          "text": "Posters", 
+          "href": "/view2"
+        }, 
+        {
+          "text": "Talks", 
+          "href": "/talks"
+        }, 
+        {
+          "text": "Software", 
+          "href": "/software"
+        }
+      ]
+    }, 
+    {
+      "text": "About", 
+      "dropdown": [
+        {
+          "text": "Research areas", 
+          "href": "/research"
+        }, 
+        {
+          "text": "Members", 
+          "href": "/members"
+        }
+      ]
+    }, 
+    {
+      "text": "Courses", 
+      "href": "/courses"
+    }, 
+    {
+      "text": "Join", 
+      "href": "/join"
+    }, 
+    {
+      "text": "Media", 
+      "dropdown": [
+        {
+          "text": "Videos", 
+          "href": "/videos"
+        }, 
+        {
+          "text": "Photos", 
+          "href": "/photos"
+        }
+      ]
+    }, 
+    {
+      "text": "Contact", 
+      "href": "/contact"
+    }
+  ]
+}
