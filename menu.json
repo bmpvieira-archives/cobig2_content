@@ -1,58 +1,58 @@
 {
   "menu": [
     {
-      "text": "Work", 
+      "text": "Work",
       "dropdown": [
         {
-          "text": "Papers", 
-          "href": "/papers"
+          "text": "Papers",
+          "href": "/papers",
           "view": "papers"
-        }, 
+        },
         {
-          "text": "Posters", 
+          "text": "Posters",
           "href": "/posters"
-        }, 
+        },
         {
-          "text": "Talks", 
+          "text": "Talks",
           "href": "/talks"
-        }, 
+        },
         {
-          "text": "Software", 
+          "text": "Software",
           "href": "/software"
         }
       ]
-    }, 
+    },
     {
-      "text": "About", 
+      "text": "About",
       "dropdown": [
         {
-          "text": "Research areas", 
+          "text": "Research areas",
           "href": "/research"
         }, 
         {
-          "text": "Members", 
-          "href": "/members"
+          "text": "Members",
+          "href": "/members",
           "view": "members"
         }
       ]
-    }, 
+    },
     {
-      "text": "Courses", 
+      "text": "Courses",
       "href": "/courses"
     }, 
     {
-      "text": "Join", 
+      "text": "Join",
       "href": "/join"
     }, 
     {
-      "text": "Media", 
+      "text": "Media",
       "dropdown": [
         {
-          "text": "Videos", 
+          "text": "Videos",
           "href": "/videos"
         }, 
         {
-          "text": "Photos", 
+          "text": "Photos",
           "href": "/photos"
         }
       ]
