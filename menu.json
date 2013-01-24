@@ -32,7 +32,7 @@
         {
           "text": "Members",
           "href": "/members",
-          "view": "members"
+          "view": "thumbnails"
         }
       ]
     },
