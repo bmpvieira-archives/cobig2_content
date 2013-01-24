@@ -5,11 +5,12 @@
       "dropdown": [
         {
           "text": "Papers", 
-          "href": "/view1"
+          "href": "/papers"
+          "view": "papers"
         }, 
         {
           "text": "Posters", 
-          "href": "/view2"
+          "href": "/posters"
         }, 
         {
           "text": "Talks", 
@@ -31,6 +32,7 @@
         {
           "text": "Members", 
           "href": "/members"
+          "view": "members"
         }
       ]
     }, 
