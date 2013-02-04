@@ -4,7 +4,7 @@ Software
 4Pipe4
 ------
 
-*4Pipe4 is an NGS analysis pipeline with emphasis on SNP detection, especially when no strain information is available.*
+**4Pipe4 is an NGS analysis pipeline with emphasis on SNP detection, especially when no strain information is available.**
 
 4Pipe4 is written in python3 and is licensed under the [GPLv3](http://www.gnu.org/licenses/gpl-3.0.html).
 
@@ -36,7 +36,7 @@ Please direct any, questions to the [author](mailto:f.pinamartins@gmail.com) and
 Concatenator
 ------------
 
-*Concatenator V 1.1.0:*
+**Concatenator V 1.1.0:**
 
 Concatenator is a small utility with two functions:
 
