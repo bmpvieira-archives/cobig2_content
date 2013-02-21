@@ -9,14 +9,6 @@
           "view": "papers"
         },
         {
-          "text": "Posters",
-          "href": "/posters"
-        },
-        {
-          "text": "Talks",
-          "href": "/talks"
-        },
-        {
           "text": "Software",
           "href": "/software"
         }
@@ -37,20 +29,8 @@
       ]
     },
     {
-      "text": "Courses",
-      "href": "/courses"
-    }, 
-    {
-      "text": "Join",
-      "href": "/join"
-    }, 
-    {
       "text": "Media",
       "dropdown": [
-        {
-          "text": "Videos",
-          "href": "/videos"
-        }, 
         {
           "text": "Photos",
           "href": "/photos"
