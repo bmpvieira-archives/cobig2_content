@@ -3,10 +3,10 @@ Contact
 
 **Address:**
 
-Faculdade de Ciências da Universidade de Lisboa  
-Edifício C2, sala 2.3.25, Campo Grande  
-1749-016 Lisboa  
-PORTUGAL  
+Faculty of Sciences of the University of Lisbon  
+Building C2, room 2.3.22  
+1749-016 Campo Grande  
+Lisbon, PORTUGAL  
 
 **Group leader:**
 
