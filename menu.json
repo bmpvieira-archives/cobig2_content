@@ -7,8 +7,12 @@
       "args": "617474431601964"
     },
     {
-      "text": "Work",
+      "text": "Research",
       "dropdown": [
+        {
+          "text": "Projects",
+          "href": "/projects"
+        },
         {
           "text": "Papers",
           "href": "/papers",
@@ -17,19 +21,53 @@
         {
           "text": "Software",
           "href": "/software"
+        },
+        {
+          "text": "Talks",
+          "href": "/talks"
+        },
+        {
+          "text": "Posters",
+          "href": "/posters"
         }
       ]
     },
     {
-      "text": "About",
+      "text": "Members",
       "dropdown": [
         {
-          "text": "Research areas",
-          "href": "/research"
+          "text": "Head of group",
+          "href": "/osp"
+        },
+        {
+          "text": "Team",
+          "href": "/team",
+          "view": "thumbnails"
+        },
+        {
+          "text": "Collaborators",
+          "href": "/collaborators"
+        },
+        {
+          "text": "Former members",
+          "href": "/Former"
+        }
+      ]
+    },
+    {
+      "text": "Courses",
+      "href": "/courses"
+    },
+   {
+      "text": "Media",
+      "dropdown": [
+        {
+          "text": "Videos",
+          "href": "/videos"
         }, 
         {
-          "text": "Members",
-          "href": "/members",
+          "text": "Photos",
+          "href": "/photos",
           "view": "thumbnails"
         }
       ]
